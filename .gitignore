@@ -1,0 +1,7 @@
+lesson_14/data/*
+lesson_16/ml*
+lesson_21/logs*
+lesson_21/results
+lesson_21/Ama*
+.ropeproject
+*.kate*

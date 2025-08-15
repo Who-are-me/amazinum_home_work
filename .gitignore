@@ -1,7 +1,11 @@
+lesson_*/.ipynb*
 lesson_14/data/*
 lesson_16/ml*
 lesson_21/logs*
 lesson_21/results
 lesson_21/Ama*
+lesson_24/checkpoints
+lesson_24/data
+lesson_24/tb_logs
 .ropeproject
 *.kate*

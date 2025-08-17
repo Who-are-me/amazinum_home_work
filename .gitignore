@@ -7,5 +7,9 @@ lesson_21/Ama*
 lesson_24/checkpoints
 lesson_24/data
 lesson_24/tb_logs
+lesson_25/*.keras
+lesson_25/*.h5
+lesson_26/*.keras
+lesson_26/data
 .ropeproject
 *.kate*

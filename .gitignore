@@ -14,5 +14,6 @@ lesson_26/*.keras
 lesson_26/data
 lesson_30/data
 lesson_30/model
+lesson_35/my_awesome_model
 .ropeproject
 *.kate*

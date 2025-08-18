@@ -1,4 +1,5 @@
 lesson_*/.ipynb*
+lesson_*/__pycache__
 lesson_14/data/*
 lesson_16/ml*
 lesson_21/logs*
@@ -11,5 +12,7 @@ lesson_25/*.keras
 lesson_25/*.h5
 lesson_26/*.keras
 lesson_26/data
+lesson_30/data
+lesson_30/model
 .ropeproject
 *.kate*

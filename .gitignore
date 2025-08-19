@@ -15,5 +15,8 @@ lesson_26/data
 lesson_30/data
 lesson_30/model
 lesson_35/my_awesome_model
+lesson_39/ds*
+lesson_39/src*
+lesson_39/api*
 .ropeproject
 *.kate*
